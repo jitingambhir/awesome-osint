@@ -1696,6 +1696,7 @@ Thanks to our main contributors
 ## [↑](#contents) PDF Management
 
 * [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader)
+* [facePdf](http://www.facepdf.com)
 * [ilovepdf](http://www.ilovepdf.com)
 * [PDFExpert](https://pdfexpert.com)
 * [PDFx](http://www.metachris.com/pdfx)
